@@ -17,21 +17,7 @@ bash
 
 git clone https://github.com/your-username/Advanced-Port-Scanner.git
 cd Advanced-Port-Scanner
-pip install -r requirements.txt
 
-🛠️ Usage
-
-Run the script with default settings:
-
-bash
-
-python scanner.py -t 192.168.1.1
-
-Perform a stealth scan with MAC spoofing (Linux only):
-
-bash
-
-sudo python scanner.py -t 192.168.1.1 --spoof
 
 ⚠️ Disclaimer
 
